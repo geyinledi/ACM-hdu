@@ -1,5 +1,5 @@
 #include <iostream>
-#include <cstdio>
+#include <cstdio> 
 #include <cstring>
 using namespace std;
 int Index(char a[],char b[],int m)
